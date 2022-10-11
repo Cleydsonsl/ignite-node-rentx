@@ -130,7 +130,3 @@ $ yarn dev
 ### Swagger Documentation
 
 - Check the swagger documentation locally in: http://localhost:3333/api-docs
-
----
-### 📄 License
-This project is under MIT license. See the [LICENSE](https://github.com/jhonnydelima/rentx/blob/main/LICENSE) file for more details.
